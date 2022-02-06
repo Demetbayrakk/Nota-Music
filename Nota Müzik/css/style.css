@@ -1,0 +1,60 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    border-style: solid;
+    text-align: center;
+    background-color: #7882A4;
+    border-color: #7882A4;
+    color: whitesmoke;
+    font-size: 150%;
+    margin-top: 0%;
+}
+button{
+    border-style: solid;
+    border-color: #7882A4;
+    background-color: #7882A4;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin: 70px;
+}
+
+div{
+    border-style: solid;
+    border-radius: 10%;
+    border-color: #7882A4;
+    margin: 10px;
+    padding: 20px;
+}
+
+span{
+    font-size: 30px;
+}
+
+#baslık{
+    text-align: center;
+    
+}
+
+h3{
+    font-size: 50px;
+    color:#7882A4;
+   
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #7882A4;
+    border-width: 5px;
+    width: 20%;
+
+}
+h4{
+    font-size: 20px;
+    text-align: center;
+    color:#7882A4
+}

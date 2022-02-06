@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    text-align: center;
+    color: #7882A4;
+}
+table{
+    border-style: solid;
+    border-color: #7882A4;
+    margin: 10px;
+    margin-left: 35%;
+    text-align: center;
+    font-size: 15px;
+    
+}
+table:hover{
+    border-style: dashed;
+}
+hr{
+    border-style: dotted none none;
+    border-color: #7882A4;
+    border-width: 5px;
+    width: 20%;
+}
+#prize{
+    font-size: 20px;
+}
